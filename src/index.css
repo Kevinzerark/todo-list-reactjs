@@ -1,0 +1,67 @@
+@import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+/* Variáveis de cor globais */
+:root {
+  /* Fundos */
+  --bg: #f0f3f6; /* Fundo principal da página */
+  --card: #ffffff; /* Fundo dos cards/listas */
+
+  /* Textos */
+  --text-primary: #1e293b; /* Texto principal */
+  --text-secondary: #64748b; /* Texto secundário / placeholders */
+  --text-muted: #9ca3af; /* Texto apagado / concluído */
+
+  /* Destaques */
+  --accent: #3b82f6; /* Botões principais */
+  --accent-hover: #2563eb; /* Hover do botão */
+
+  /* Status */
+  --success: #22c55e; /* Tarefas concluídas / check */
+  --danger: #ef4444; /* Botão delete */
+  --danger-hover: #f87171; /* Hover do delete */
+
+  /* Hover de item da lista */
+  --hover: rgba(0, 0, 0, 0.1);
+}
+
+/* Light mode */
+.light {
+  --bg: #0f0f0f;
+  --card: #1f2937;
+  --text-primary: #e5e7eb;
+  --text-secondary: #9ca3af;
+  --text-muted: #64748b;
+  --accent: #2563eb;
+  --accent-hover: #3b82f6;
+  --success: #22c55e;
+  --danger: #ef4444;
+  --danger-hover: #f87171;
+  --hover: rgba(255, 255, 255, 0.1);
+}
+
+/* Fonte global */
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+/* Animação de shake */
+@keyframes shake {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-4px);
+  }
+  50% {
+    transform: translateX(4px);
+  }
+  75% {
+    transform: translateX(-4px);
+  }
+}
+
+.animate-shake {
+  animation: shake 0.3s ease;
+}
