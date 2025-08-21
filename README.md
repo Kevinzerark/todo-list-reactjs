@@ -1,29 +1,65 @@
-# 📝 To-Do List React
+# Todo App com React e TailwindCSS
 
-Uma aplicação minimalista de **lista de tarefas** feita com **React + Vite + TailwindCSS**.  
-Gerencie suas tarefas de forma simples e eficiente! ✅
+Este é um aplicativo de lista de tarefas simples, construído com **React** e **TailwindCSS**, seguindo o tutorial do YouTube [How To Make To-Do List App Using React JS And Tailwind CSS](https://www.youtube.com/watch?v=WE8aYoGK0Ec).
 
----
+## 🚀 Funcionalidades
 
-## 🚀 Tecnologias utilizadas
-- React
-- Vite
-- JavaScript (ES6+)
-- TailwindCSS
+- Adicionar e excluir tarefas
+- Marcar tarefas como concluídas
+- Layout responsivo para dispositivos móveis e desktop
+- Armazenamento local (localStorage) para persistência de dados
+- Design clean e moderno utilizando TailwindCSS
 
----
+## 🛠️ Tecnologias Utilizadas
 
-## 📦 Como rodar o projeto
+- **React**
+- **TailwindCSS**
+- **localStorage (API do navegador)**
+
+## 🎨 Demonstração do App
+
+### Modo Dark
+
+![Dark Mode](src/assets/screenshot-dark.png)
+
+### Modo Claro
+
+![Light Mode](src/assets/screenshot-light.png)
+
+## 📦 Como Rodar o Projeto
+
+1. Clone o repositório:
 
 ```bash
-# Clone este repositório
 git clone https://github.com/Kevinzerark/todo-list-react.git
 
-# Acesse a pasta do projeto
+```
+
+2. Navegue até o diretório do projeto:
+
+```bash
 cd todo-list-react
+```
 
-# Instale as dependências
+3. Instale as dependências:
+
+```bash
 npm install
+```
 
-# Rode o servidor de desenvolvimento
+4. Inicie o servidor de desenvolvimento:
+
+```bash
 npm run dev
+```
+
+5. Abra no navegador:
+
+[text](http://localhost:5173)
+
+👤 Autor
+
+**Raul Kevin**
+
+[text](https://github.com/Kevinzerark)
+[text](https://www.linkedin.com/in/kevin-cardoso-/)
