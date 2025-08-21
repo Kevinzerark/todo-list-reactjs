@@ -16,16 +16,6 @@ Este é um aplicativo de lista de tarefas simples, construído com **React** e *
 - **TailwindCSS**
 - **localStorage (API do navegador)**
 
-## 🎨 Demonstração do App
-
-### Modo Dark
-
-![Dark Mode](screenshot-dark.png)
-
-### Modo Claro
-
-![Light Mode](screenshot-light.png)
-
 ## 📦 Como Rodar o Projeto
 
 1. Clone o repositório:
@@ -57,9 +47,13 @@ npm run dev
 
 http://localhost:5173
 
-👤 Autor
+## Autor
 
-**Raul Kevin** - [GitHub](https://github.com/Kevinzerark) | [Linkedin](https://www.linkedin.com/in/kevin-cardoso-/)
+:men: **Raul Kevin** 
+- [GitHub](https://github.com/Kevinzerark)
+- [Linkedin](https://www.linkedin.com/in/kevin-cardoso-/)
+
+
 
 
 
