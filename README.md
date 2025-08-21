@@ -49,7 +49,7 @@ http://localhost:5173
 
 ## Autor
 
-:men: **Raul Kevin** 
+**Raul Kevin** 
 - [GitHub](https://github.com/Kevinzerark)
 - [Linkedin](https://www.linkedin.com/in/kevin-cardoso-/)
 
