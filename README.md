@@ -20,11 +20,11 @@ Este é um aplicativo de lista de tarefas simples, construído com **React** e *
 
 ### Modo Dark
 
-![Dark Mode](src/assets/screenshot-dark.png)
+![Dark Mode](screenshot-dark.png)
 
 ### Modo Claro
 
-![Light Mode](src/assets/screenshot-light.png)
+![Light Mode](screenshot-light.png)
 
 ## 📦 Como Rodar o Projeto
 
@@ -55,11 +55,11 @@ npm run dev
 
 5. Abra no navegador:
 
-[text](http://localhost:5173)
+http://localhost:5173
 
 👤 Autor
 
-**Raul Kevin**
+**Raul Kevin** - [GitHub](https://github.com/Kevinzerark) | [Linkedin](https://www.linkedin.com/in/kevin-cardoso-/)
 
-[text](https://github.com/Kevinzerark)
-[text](https://www.linkedin.com/in/kevin-cardoso-/)
+
+
