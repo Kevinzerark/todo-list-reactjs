@@ -49,9 +49,10 @@ const Todo = () => {
 
   return (
     <div
-      className="bg-[var(--card)] border border-[var(--hover)] place-self-center w-11/12 max-w-md
-                 flex flex-col p-7 min-h-[550px] rounded-xl shadow-sm
-                 transition-colors duration-500"
+      className="bg-[var(--card)] border border-[var(--hover)] place-self-center
+             w-11/12 max-w-[90vw] p-5 min-h-[70vh] rounded-xl shadow-sm
+             transition-colors duration-500
+             sm:w-11/12 sm:max-w-md sm:p-7 sm:min-h-[550px]"
     >
       {/* Title */}
       <div className="flex items-center mt-2 gap-2">
