@@ -1,6 +1,6 @@
 # Todo App with React and TailwindCSS
 
-A simple and modern task management application built using **React** and **TailwindCSS**. This project is based on the YouTube tutorial [How To Make To-Do List App Using React JS And Tailwind CSS](https://www.youtube.com/watch?v=WE8aYoGK0Ec).
+A simple and modern task management application built using **React** and **TailwindCSS**.
 
 ## 🚀 Features
 
