@@ -1,59 +1,49 @@
-# Todo App com React e TailwindCSS
+# Todo App with React and TailwindCSS
 
-Este é um aplicativo de lista de tarefas simples, construído com **React** e **TailwindCSS**, seguindo o tutorial do YouTube [How To Make To-Do List App Using React JS And Tailwind CSS](https://www.youtube.com/watch?v=WE8aYoGK0Ec).
+A simple and modern task management application built using **React** and **TailwindCSS**. This project is based on the YouTube tutorial [How To Make To-Do List App Using React JS And Tailwind CSS](https://www.youtube.com/watch?v=WE8aYoGK0Ec).
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- Adicionar e excluir tarefas
-- Marcar tarefas como concluídas
-- Layout responsivo para dispositivos móveis e desktop
-- Armazenamento local (localStorage) para persistência de dados
-- Design clean e moderno utilizando TailwindCSS
+- Add, delete, and complete tasks
+- Responsive design for mobile and desktop
+- Persistent data storage using browser localStorage
+- Clean UI powered by TailwindCSS
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies
 
-- **React**
-- **TailwindCSS**
-- **localStorage (API do navegador)**
+- [React](https://react.dev/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
-## 📦 Como Rodar o Projeto
+## 📦 Getting Started
 
-1. Clone o repositório:
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/Kevinzerark/todo-list-react.git
+    ```
 
-```bash
-git clone https://github.com/Kevinzerark/todo-list-react.git
+2. **Navigate to the project folder:**
+    ```bash
+    cd todo-list-react
+    ```
 
-```
+3. **Install dependencies:**
+    ```bash
+    npm install
+    ```
 
-2. Navegue até o diretório do projeto:
+4. **Start the development server:**
+    ```bash
+    npm run dev
+    ```
 
-```bash
-cd todo-list-react
-```
+5. **Open your browser and visit:**
+    ```
+    http://localhost:5173
+    ```
 
-3. Instale as dependências:
+## 👤 Author
 
-```bash
-npm install
-```
-
-4. Inicie o servidor de desenvolvimento:
-
-```bash
-npm run dev
-```
-
-5. Abra no navegador:
-
-http://localhost:5173
-
-## Autor
-
-**Raul Kevin** 
+**Raul Kevin**  
 - [GitHub](https://github.com/Kevinzerark)
-- [Linkedin](https://www.linkedin.com/in/kevin-cardoso-/)
-
-
-
-
-
+- [LinkedIn](https://www.linkedin.com/in/kevin-cardoso-/)
